@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech Nerd, CTO [@venzo-tech]((https://venzotechnologies.com)<br>Programming Polyglot<br>I Architect Web/Mobile Applications
+Tech Nerd, CTO @ [@venzo-tech](https://venzotechnologies.com)<br>Programming Polyglot<br>I Architect Web/Mobile Applications
 
 
 ## 🌐 Socials:
